@@ -1,0 +1,12 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: 'class', // เพิ่มบรรทัดนี้
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
