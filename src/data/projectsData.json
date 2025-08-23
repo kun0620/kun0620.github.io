@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Weather App",
+    "description": "แอปพลิเคชันพยากรณ์อากาศที่ดึงข้อมูลจาก OpenWeather API แสดงผลอุณหภูมิ, ความชื้น, และสภาพอากาศแบบเรียลไทม์",
+    "image": "/images/projects/react-weather-app.png",
+    "githubUrl": "https://github.com/kun0620/react-weather-app",
+    "liveUrl": "https://kun0620.github.io/react-weather-app/"
+  },
+  {
+    "id": 2,
+    "title": "To-Do List App",
+    "description": "แอปพลิเคชันจัดการรายการสิ่งที่ต้องทำที่ช่วยให้ผู้ใช้เพิ่ม, ลบ, และแก้ไขรายการได้อย่างง่ายดาย",
+    "image": "/images/projects/react-todo-app.png",
+    "githubUrl": "https://github.com/kun0620/react-todo-app",
+    "liveUrl": "https://kun0620.github.io/react-todo-app/"
+  },
+  {
+    "id": 3,
+    "title": "Simple Calculator",
+    "description": "เครื่องคิดเลขพื้นฐานที่สร้างด้วย JavaScript แสดงทักษะการเขียนโค้ดและจัดการ UI",
+    "image": "/images/projects/react-calculator-app.png",
+    "githubUrl": "https://github.com/kun0620/react-calculator-app",
+    "liveUrl": "https://kun0620.github.io/react-calculator-app/"
+  }
+]
